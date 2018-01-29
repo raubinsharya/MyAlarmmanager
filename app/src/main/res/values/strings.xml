@@ -3,6 +3,6 @@
     <string name="title_activity_alertdialog">Alertdialog</string>
     <string name="comment">Comment</string>
     <string name="ok">Ok</string>
+    <string name="set_date">Choose Date</string>
     <string name="set_time">Set Time</string>
-    <string name="set_date">Set Date</string>
 </resources>
